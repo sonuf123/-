@@ -31,6 +31,8 @@ To interact with Spotify's API, you need a client ID and client secret.
 
 Register your app at Spotify for Developers to get these credentials.
 
+SPOTIFY DEVELOPER APP - https://developer.spotify.com/
+
 ##   Step 2: Install Python Libraries
 
 Ensure you have Python installed.
@@ -61,7 +63,16 @@ The following HTML code snippet can be used to create a cropped image display in
 <img width="632" alt="image" src="https://github.com/sonuf123/-/assets/24766030/d59b047b-2a9f-4576-8a79-6f1e58a40473">
 
 
+## Deneb visual used 
+Calender Heatmap
+
+Heatmap code
+
+unit chart code 
+
 In this Power BI report, set the variable x to the URL of the most popular track's album cover to display it in the report.
 
+## Refer this SPOTIFY API DOCUMENATTION -
+https://developer.spotify.com/documentation/web-api
 
 

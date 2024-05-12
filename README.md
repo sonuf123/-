@@ -1,4 +1,4 @@
-
+![cricket](https://github.com/sonuf123/Power-BI-Project/assets/24766030/821d1e25-1188-44a1-b0a4-cf243ea2a777)
 # T20 World Cup Cricket
 
 ### Dashboard Link : 
@@ -38,13 +38,16 @@ By following these steps, users can effectively leverage Power BI to analyze T20
 
 # Snapshot of Dashboard (Power BI Service)
 
-![dashboard_snapo](https://user-images.githubusercontent.com/102996550/174096257-11f1aae5-203d-44fc-bfca-25d37faf3237.jpg)
+![dashboard_snapo]<img width="1079" alt="pbi serv" src="https://github.com/sonuf123/Power-BI-Project/assets/24766030/c1a70deb-1ee8-4d8f-afea-8f1787eaeac4">
 
- 
+
+
+
  # Report Snapshot (Power BI DESKTOP)
 
  
-![Dashboard_upload](https://user-images.githubusercontent.com/102996550/174074051-4f08287a-0568-4fdf-8ac9-6762e0d8fa94.jpg)
+![Dashboard_upload]<img width="1079" alt="image" src="https://github.com/sonuf123/Power-BI-Project/assets/24766030/114c133c-f2fe-4c3d-9f91-81cf604f01cb">
+
 
 # Insights
 

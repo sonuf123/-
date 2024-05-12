@@ -55,4 +55,8 @@ A single page report was created on Power BI Desktop & it was then published to 
 
 Following inferences can be drawn from the dashboard;
 
+<img width="695" alt="image" src="https://github.com/sonuf123/Power-BI-Project/assets/24766030/89365650-4353-41e4-9ca2-03c2519bb3a0">
+
+
+
 

@@ -60,5 +60,17 @@ Following inferences can be drawn from the dashboard;
 <img width="695" alt="image" src="https://github.com/sonuf123/Power-BI-Project/assets/24766030/89365650-4353-41e4-9ca2-03c2519bb3a0">
 
 
+#### Link fro Dataset : 
+https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023?resource=download
+
+#### spotify developer app : 
+https://developer.spotify.com/
+
+#### unit chart code :
+ https://stackoverflow.com/questions/75881301/convert-vega-deneb-gauge-to-work-in-powerbi
+
+#### Heatmap code :
+ https://github.com/PowerBI-tips/Deneb-Templates/blob/main/templates/heatmap%20with%20bars%20-%20red%20themed.json
+![image](https://github.com/sonuf123/Power-BI-Project/assets/24766030/02747369-d15d-4f62-aec9-2856eeee9e02)
 
 

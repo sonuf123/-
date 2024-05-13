@@ -1,4 +1,6 @@
-![cricket](https://github.com/sonuf123/Power-BI-Project/assets/24766030/821d1e25-1188-44a1-b0a4-cf243ea2a777)
+![image](https://github.com/sonuf123/Power-BI-Project/assets/24766030/cad516ee-975b-49a7-b1a7-55ba3bc7374f)
+
+
 # T20 World Cup Cricket
 
 ### Dashboard Link : 

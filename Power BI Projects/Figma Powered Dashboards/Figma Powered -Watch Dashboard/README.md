@@ -1,6 +1,9 @@
 
 
 # Figma Powered Dashboard Designs
+[Sales Figma Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGMwNjcwYTctYzA1My00OGFjLWE3MjEtNDVmNTBhOWM3MzE2IiwidCI6IjZhMTgyNzllLTgzMzktNGFhYS1hZDliLTViYjdjMmU4ZDE2YiJ9 "Sales Figma Dashboard")
+
+[Raw Watch Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWQ5ZDA2ZjQtNzViYS00Y2M4LTk3YjUtMWM0ZjcyZGFjNjZkIiwidCI6IjZhMTgyNzllLTgzMzktNGFhYS1hZDliLTViYjdjMmU4ZDE2YiJ9 "Raw Watch Dashboard")
 
 ## Introduction
 This Power BI dashboards are designed using Figma to incorporate stunning design elements and make the dashboard more presentable. This README outlines design ideas and resources to enhance your dashboard.

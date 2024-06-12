@@ -5,15 +5,16 @@
 
 | Dashboard                        | Links                                  |
 |----------------------------------|----------------------------------------|
-|1. Customer Profitability Dashboard | [Link to Customer Profitability Dashboard](#) |
-| 2. Figma Powered Dashboards        | [Link to Figma Powered Dashboards](#)   |
-| 3. Financial Dashboards            | [Link to Financial Dashboards](#)       |
-| 4. Hospitality Dashboard           | [Link to Hospitality Dashboard](#)      |
-| 5. Netflix Dashboard               | [Link to Netflix Dashboard](#)          |
-| 6. Sales Analysis Dashboard        | [Link to Sales Analysis Dashboard](#)   |
-| 7. Spotify PowerBI Project         | [Link to Spotify PowerBI Project](#)    |
-| 8. T20WorldCup Cricket Dashboard   | [Link to T20WorldCup Cricket Dashboard](#) |
-| 9. Zomato Dashboard                | [Link to Zomato Dashboard](#)           |
+|1. Customer Profitability Dashboard | [Link to Customer Profitability Dashboard](https://github.com/sonuf123/Power-BI-Project/tree/main/Power%20BI%20Projects/Customer%20Profitability%20Dashboard "Link to Customer Profitability Dashboard")|
+| 2. Figma Powered Dashboards        | [Link to Figma Powered Dashboards](https://github.com/sonuf123/Power-BI-Project/tree/main/Power%20BI%20Projects/Figma%20Powered%20Dashboards "Link to Figma Powered Dashboards")  |
+| 3. Financial Dashboards            | [Link to Financial Dashboards](https://github.com/sonuf123/Power-BI-Project/tree/main/Power%20BI%20Projects/Financial%20Dashboards "Link to Financial Dashboards")       |
+| 4. Hospitality Dashboard           | [Link to Hospitality Dashboard](https://github.com/sonuf123/Power-BI-Project/tree/main/Power%20BI%20Projects/Hospitality_Dashboard "Link to Hospitality Dashboard")      |
+| 5. Netflix Dashboard               | [Link to Netflix Dashboard](https://github.com/sonuf123/Power-BI-Project/tree/main/Power%20BI%20Projects/Netflix%20Dashboard "Link to Netflix Dashboard")        |
+| 6. Sales Analysis Dashboard        | [Link to Sales Analysis Dashboard](https://github.com/sonuf123/Power-BI-Project/tree/main/Power%20BI%20Projects/Sales_Analysis_Dashboard "Link to Sales Analysis Dashboard")   |
+| 7. Spotify PowerBI Project         | [Link to Spotify PowerBI Project](https://github.com/sonuf123/Power-BI-Project/tree/main/Power%20BI%20Projects/Spotify_PowerBI_Project "Link to Spotify PowerBI Project")   |
+| 8. T20WorldCup Cricket Dashboard   | [Link to T20WorldCup Cricket Dashboard](https://github.com/sonuf123/Power-BI-Project/tree/main/Power%20BI%20Projects/T20WorldCup%20Cricket%20Dashboard "Link to T20WorldCup Cricket Dashboard") |
+| 9. Zomato Dashboard                | [Link to Zomato Dashboard](https://github.com/sonuf123/Power-BI-Project/tree/main/Power%20BI%20Projects/Zomato%20Dashboard "Link to Zomato Dashboard")          |
+
 
 | Section | Description |
 |---------|-------------|

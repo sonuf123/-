@@ -2,7 +2,7 @@
 
 # Revenue Insights in Hospitality Domain Dashboard Project 
 
-### Dashboard Link : <<link>
+[Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiZmQ4MDM4NTAtODk2Yi00YjBkLWIxY2YtNzQ0NWY2YjY0NDM5IiwidCI6IjZhMTgyNzllLTgzMzktNGFhYS1hZDliLTViYjdjMmU4ZDE2YiJ9 "Dashboard Link")
 
 
 ## Purpose and Description
